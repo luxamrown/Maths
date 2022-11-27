@@ -1,4 +1,4 @@
-## Linear Equation in One Variable
+## Simple Linear Equation in One Variable
 
 pls input equation in form "ax + b = c" (look at whitespace)
 
